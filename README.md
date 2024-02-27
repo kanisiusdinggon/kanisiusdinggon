@@ -156,43 +156,43 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
 
 
 23. Untuk partition disk kedua, pilih opsi logical dan pada mount point pilih Enter manually dan ketik "/storage", lalu klik continue.
-![Screenshot](screenshot/35.png)
+    ![ss](ss/41.png)
 
 24. Setelah membuat partition disk kedua, silahkan membuat partition disk ke tiga, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk kedua, lalu klik continue.
-![Screenshot](screenshot/36.png)
+    ![ss](ss/42.png)
 
 25. Untuk partition disk kedua, pilih opsi logical, lalu jadikan "swap area" pada bagian "use as:", lalu klik continue.
-![Screenshot](screenshot/37.png)
+    ![ss](ss/43.png)
 
 26. Cek ulang seperti gambar dibawah, jika sudah sesuai, klik continue.
-![Screenshot](screenshot/38.png)
+    ![ss](ss/44.png)
+    
+28. Pilih opsi "Yes", lalu klik continue.
+    ![ss](ss/45.png)
 
-27. Pilih opsi "Yes", lalu klik continue.
-![Screenshot](screenshot/39.png)
+29. Pilih opsi "no", lalu klik continue.
+    ![ss](ss/46.png)
 
-28. Pilih opsi "no", lalu klik continue.
-![Screenshot](screenshot/40.png)
+30. Pilih lokasi terdekat untuk mengunduh package manager, lalu klik continue.
+    ![ss](ss/47.png)
 
-29. Pilih lokasi terdekat untuk mengunduh package manager, lalu klik continue.
-![Screenshot](screenshot/41.png)
+31. Pilih archive mirror, lalu klik continue.
+    ![ss](ss/48.png)
+    
+33. Pada bagian ini tidak perlu diisi, klik continue
+    ![ss](ss/49.png)
 
-30. Pilih archive mirror, lalu klik continue.
-![Screenshot](screenshot/42.png)
+35. Pilih opsi "Yes", lalu klik continue.
+    ![ss](ss/50.png)
 
-31. Pada bagian ini tidak perlu diisi, klik continue
-![Screenshot](screenshot/43.png)
-
-32. Pilih opsi "Yes", lalu klik continue.
-![Screenshot](screenshot/44.png)
-
-33. Pilih opsi "/dev/sda", lalu klik continue.
-![Screenshot](screenshot/45.png)
-
-34. Instalasi dan konfigurasi Debian telah selesai, klik continue dan Virtual machine akan me-reboot. 
-![Screenshot](screenshot/46.png)
-
-35. Tampilan Linux Debian setelah reboot.
-![Screenshot](screenshot/47.png)
+37. Pilih opsi "/dev/sda", lalu klik continue.
+    ![ss](ss/51.png)
+    
+39. Instalasi dan konfigurasi Debian telah selesai, klik continue dan Virtual machine akan me-reboot. 
+    ![ss](ss/52.png)
+    
+41. Tampilan Linux Debian setelah reboot.
+    ![ss](ss/53.png)
 <!---
 kanisiusdinggon/kanisiusdinggon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

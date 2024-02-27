@@ -74,10 +74,10 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
 ![ss](ss/06.jpeg)
 
 2. Isi nama, pilih letak penyimpanan Virtual Box, masukkan file ISO debian yang telah diunduh, klik "Skip unattended Installation, dan klik Next.
-![Screenshot](screenshot/9.png)
+   ![ss](ss/07.jpeg)
 
 3. Isi Username dan hostname dan ubah password, untuk domain name tidak perlu diganti, lalu klik Next. 
-![Screenshot](screenshot/10.png)
+   ![ss](ss/11.jpeg)
 
 4. Tentukan RAM dan jumlah CPU yang diinginkan, lalu klik Next.
 ![Screenshot](screenshot/11.png)

@@ -80,13 +80,13 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/11.jpeg)
 
 4. Tentukan RAM dan jumlah CPU yang diinginkan, lalu klik Next.
-![Screenshot](screenshot/11.png)
+   ![ss](ss/05.jpeg)
 
 5. Tentukan ukuran storage didalam Virtual Machine, lalu klik Next.
-![Screenshot](screenshot/12.png)
+   ![ss](ss/10.jpeg)
 
 6. Dalam tampilan ini, anda dapat melihat ulang pilihan yang anda telah pilih sebelumnya, jika sudah sesuai keinginan, pilih Finish.
-![Screenshot](screenshot/13.png)
+   ![ss](ss/13.jpeg)
 
 ## Mengkonfigurasi Debian dalam Oracle Virtual Box
 1. Klik "Start" untuk membuka Virtual Machine.

@@ -67,7 +67,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/24.jpeg)
 
 7. Oracle Virtual Box telah di install, klik finish.
-![Screenshot](screenshot/7.png)
+   ![ss](ss/25.jpeg)
 
 ## Instalasi Linux Debian dalam Oracle Virtual Box
 1. Buka Oracle Virtual Box, lalu klik opsi "New".

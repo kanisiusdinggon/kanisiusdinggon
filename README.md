@@ -58,7 +58,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/21.jpeg)
 
 4. Dalam menu tidak ada yang perlu diubah, klik Next.
-![Screenshot](screenshot/4.png)
+   ![ss](ss/22.jpeg)
 
 5. Klik Yes.
 ![Screenshot](screenshot/5.png)

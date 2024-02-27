@@ -52,10 +52,10 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
 ![ss](ss/01.jpeg)
 
 2. Masuk ke laman Download sistem operasi [Debian](https://www.debian.org/download) untuk mengunduh sistem operasi Linux Debian.
-![Screenshot](screenshot/2.png)
+   ![ss](screenshot/2.png)
 
 3. Buka setup Oracle dan klik Next.
-![Screenshot](screenshot/3.png)
+![Screenshot](ss/20)
 
 4. Dalam menu tidak ada yang perlu diubah, klik Next.
 ![Screenshot](screenshot/4.png)

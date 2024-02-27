@@ -90,7 +90,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
 
 ## Mengkonfigurasi Debian dalam Oracle Virtual Box
 1. Klik "Start" untuk membuka Virtual Machine.
-![Screenshot](screenshot/14a.png)
+![ss](ss/12.jpeg)
 
 2. Pilih Graphical Install untuk memulai konfigurasi Debian.
 ![Screenshot](screenshot/15.png)

@@ -93,16 +93,16 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
 ![ss](ss/12.jpeg)
 
 2. Pilih Graphical Install untuk memulai konfigurasi Debian.
-![Screenshot](screenshot/15.png)
+   ![ss](ss/15.jpeg)
 
 3. Pilih Bahasa, lalu klik continue.
-![Screenshot](screenshot/16.png)
+   ![ss](ss/14.jpeg)
 
 4. Pilih lokasi, lalu klik continue.
-![Screenshot](screenshot/17.png)
+   ![ss](ss/17.jpeg)
 
 5. Pilih konfigurasi bahasa Keyboard, lalu klik continue.
-![Screenshot](screenshot/18.png)
+   ![ss](ss/18.jpeg)
 
 6. Isi Hostname, lalu klik continue.
 ![Screenshot](screenshot/19.png)

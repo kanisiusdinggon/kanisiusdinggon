@@ -108,87 +108,87 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/19.png)
 
 7. Untuk nama domain tidak perlu diisi, klik continue.
-![Screenshot](screenshot/20.png)
+   ![ss](ss/26.png)
 
-8. Isi root password, lalu klik continue.
-![Screenshot](screenshot/21.png)
+9. Isi root password, lalu klik continue.
+   ![ss](ss/27.png)
 
-9. Isi nama, lalu klik continue.
-![Screenshot](screenshot/22.png)
+10. Isi nama, lalu klik continue.
+    ![ss](ss/28.png)
 
-10. Isi username, lalu klik continue.
-![Screenshot](screenshot/23.png)
+11. Isi username, lalu klik continue.
+    ![ss](ss/29.png)
 
-11. Pilih lokasi jam, lalu klik continue.
-![Screenshot](screenshot/24.png)
+12. Pilih lokasi jam, lalu klik continue.
+    ![ss](ss/30.png)
 
-12. Untuk partition disk, pilih manual, lalu klik continue.
-![Screenshot](screenshot/25.png)
+13. Untuk partition disk, pilih manual, lalu klik continue.
+    ![ss](ss/31.png)
 
-13. Pilih opsi seperti pada gambar dibawah, lalu klik continue.
+14. Pilih opsi seperti pada gambar dibawah, lalu klik continue.
 ![Screenshot](screenshot/26.png)
 
-14. Pilih "Yes" untuk membuat partition disk baru, lalu klik continue.
+15. Pilih "Yes" untuk membuat partition disk baru, lalu klik continue.
 ![Screenshot](screenshot/27.png)
 
-15. Pilih pri/log untuk membuat bagian partition disk, lalu klik continue.
+16. Pilih pri/log untuk membuat bagian partition disk, lalu klik continue.
 ![Screenshot](screenshot/28.png)
 
-16. Pilih "create new partition disk" untuk membuat partition disk, lalu klik continue.
+17. Pilih "create new partition disk" untuk membuat partition disk, lalu klik continue.
 ![Screenshot](screenshot/29.png)
 
-17. Tentukan jumlah penyimpanan partition disk pertama, lalu klik continue.
+18. Tentukan jumlah penyimpanan partition disk pertama, lalu klik continue.
 ![Screenshot](screenshot/30.png)
 
-18. Pilih "primary" agar menjadikan penyimpanan utama, lalu klik continue.
+19. Pilih "primary" agar menjadikan penyimpanan utama, lalu klik continue.
 ![Screenshot](screenshot/31.png)
 
-19. Pilih "beginning", lalu klik continue.
+20. Pilih "beginning", lalu klik continue.
 ![Screenshot](screenshot/32.png)
 
-20. pilih opsi "done setting up the partition" klik continue.
+21. pilih opsi "done setting up the partition" klik continue.
 ![Screenshot](screenshot/33.png)
 
-21. Setelah membuat partition disk pertama, silahkan membuat partition disk ke dua, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk pertama, lalu klik continue.
+22. Setelah membuat partition disk pertama, silahkan membuat partition disk ke dua, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk pertama, lalu klik continue.
 ![Screenshot](screenshot/34.png)
 
-22. Untuk partition disk kedua, pilih opsi logical dan pada mount point pilih Enter manually dan ketik "/storage", lalu klik continue.
+23. Untuk partition disk kedua, pilih opsi logical dan pada mount point pilih Enter manually dan ketik "/storage", lalu klik continue.
 ![Screenshot](screenshot/35.png)
 
-23. Setelah membuat partition disk kedua, silahkan membuat partition disk ke tiga, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk kedua, lalu klik continue.
+24. Setelah membuat partition disk kedua, silahkan membuat partition disk ke tiga, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk kedua, lalu klik continue.
 ![Screenshot](screenshot/36.png)
 
-24. Untuk partition disk kedua, pilih opsi logical, lalu jadikan "swap area" pada bagian "use as:", lalu klik continue.
+25. Untuk partition disk kedua, pilih opsi logical, lalu jadikan "swap area" pada bagian "use as:", lalu klik continue.
 ![Screenshot](screenshot/37.png)
 
-25. Cek ulang seperti gambar dibawah, jika sudah sesuai, klik continue.
+26. Cek ulang seperti gambar dibawah, jika sudah sesuai, klik continue.
 ![Screenshot](screenshot/38.png)
 
-26. Pilih opsi "Yes", lalu klik continue.
+27. Pilih opsi "Yes", lalu klik continue.
 ![Screenshot](screenshot/39.png)
 
-27. Pilih opsi "no", lalu klik continue.
+28. Pilih opsi "no", lalu klik continue.
 ![Screenshot](screenshot/40.png)
 
-28. Pilih lokasi terdekat untuk mengunduh package manager, lalu klik continue.
+29. Pilih lokasi terdekat untuk mengunduh package manager, lalu klik continue.
 ![Screenshot](screenshot/41.png)
 
-29. Pilih archive mirror, lalu klik continue.
+30. Pilih archive mirror, lalu klik continue.
 ![Screenshot](screenshot/42.png)
 
-30. Pada bagian ini tidak perlu diisi, klik continue
+31. Pada bagian ini tidak perlu diisi, klik continue
 ![Screenshot](screenshot/43.png)
 
-31. Pilih opsi "Yes", lalu klik continue.
+32. Pilih opsi "Yes", lalu klik continue.
 ![Screenshot](screenshot/44.png)
 
-32. Pilih opsi "/dev/sda", lalu klik continue.
+33. Pilih opsi "/dev/sda", lalu klik continue.
 ![Screenshot](screenshot/45.png)
 
-33. Instalasi dan konfigurasi Debian telah selesai, klik continue dan Virtual machine akan me-reboot. 
+34. Instalasi dan konfigurasi Debian telah selesai, klik continue dan Virtual machine akan me-reboot. 
 ![Screenshot](screenshot/46.png)
 
-34. Tampilan Linux Debian setelah reboot.
+35. Tampilan Linux Debian setelah reboot.
 ![Screenshot](screenshot/47.png)
 <!---
 kanisiusdinggon/kanisiusdinggon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -105,7 +105,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/18.jpeg)
 
 6. Isi Hostname, lalu klik continue.
-![Screenshot](screenshot/19.png)
+   ![ss](ss/19.png)
 
 7. Untuk nama domain tidak perlu diisi, klik continue.
 ![Screenshot](screenshot/20.png)

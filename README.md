@@ -61,7 +61,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/22.jpeg)
 
 5. Klik Yes.
-![Screenshot](screenshot/5.png)
+   ![ss](ss/23.jpeg)
 
 6. Klik Install.
 ![Screenshot](screenshot/6.png)

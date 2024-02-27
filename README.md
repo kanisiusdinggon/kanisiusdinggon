@@ -55,7 +55,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/20.png)
 
 3. Buka setup Oracle dan klik Next.
-![Screenshot](ss/20)
+   ![ss](ss/21.jpeg)
 
 4. Dalam menu tidak ada yang perlu diubah, klik Next.
 ![Screenshot](screenshot/4.png)

@@ -108,7 +108,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/19.png)
 
 7. Untuk nama domain tidak perlu diisi, klik continue.
-   ![ss](ss/26.png)
+   ![26.png](/26.png)
 
 9. Isi root password, lalu klik continue.
    ![ss](ss/27.png)

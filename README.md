@@ -126,31 +126,34 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
     ![31.png](/31.png)
 
 14. Pilih opsi seperti pada gambar dibawah, lalu klik continue.
-![Screenshot](screenshot/26.png)
+    ![ss](ss/32.png)
 
 15. Pilih "Yes" untuk membuat partition disk baru, lalu klik continue.
-![Screenshot](screenshot/27.png)
+    ![ss](ss/33.png)
 
 16. Pilih pri/log untuk membuat bagian partition disk, lalu klik continue.
-![Screenshot](screenshot/28.png)
+    ![ss](ss/34.png)
+
 
 17. Pilih "create new partition disk" untuk membuat partition disk, lalu klik continue.
-![Screenshot](screenshot/29.png)
+    ![ss](ss/35.png)
 
 18. Tentukan jumlah penyimpanan partition disk pertama, lalu klik continue.
-![Screenshot](screenshot/30.png)
+    ![ss](ss/36.png)
 
 19. Pilih "primary" agar menjadikan penyimpanan utama, lalu klik continue.
-![Screenshot](screenshot/31.png)
+    ![ss](ss/37.png)
 
 20. Pilih "beginning", lalu klik continue.
-![Screenshot](screenshot/32.png)
+    ![ss](ss/38.png)
+
 
 21. pilih opsi "done setting up the partition" klik continue.
-![Screenshot](screenshot/33.png)
+    ![ss](ss/39.png)
 
 22. Setelah membuat partition disk pertama, silahkan membuat partition disk ke dua, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk pertama, lalu klik continue.
-![Screenshot](screenshot/34.png)
+    ![ss](ss/40.png)
+
 
 23. Untuk partition disk kedua, pilih opsi logical dan pada mount point pilih Enter manually dan ketik "/storage", lalu klik continue.
 ![Screenshot](screenshot/35.png)

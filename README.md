@@ -64,7 +64,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![ss](ss/23.jpeg)
 
 6. Klik Install.
-![Screenshot](screenshot/6.png)
+   ![ss](ss/24.jpeg)
 
 7. Oracle Virtual Box telah di install, klik finish.
 ![Screenshot](screenshot/7.png)

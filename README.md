@@ -111,19 +111,19 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
    ![26.png](/26.png)
 
 9. Isi root password, lalu klik continue.
-   ![ss](ss/27.png)
+   ![27.png](/27.png)
 
 10. Isi nama, lalu klik continue.
-    ![ss](ss/28.png)
+    ![28.png](/28.png)
 
 11. Isi username, lalu klik continue.
-    ![ss](ss/29.png)
+    ![29.png](/29.png)
 
 12. Pilih lokasi jam, lalu klik continue.
-    ![ss](ss/30.png)
+    ![30.png](/30.png)
 
 13. Untuk partition disk, pilih manual, lalu klik continue.
-    ![ss](ss/31.png)
+    ![31.png](/31.png)
 
 14. Pilih opsi seperti pada gambar dibawah, lalu klik continue.
 ![Screenshot](screenshot/26.png)

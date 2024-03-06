@@ -18,6 +18,7 @@
 ## Daftar Isi
 1. [Dasar Teori](#Dasar-teori)
 2. [Soal](#soal)
+3. [Instalasi Oracle Virtual Box](#Instalasi Oracle Virtual Box)
 
 ## Dasar teori
 Pengertian Sistem Operasi:</br>

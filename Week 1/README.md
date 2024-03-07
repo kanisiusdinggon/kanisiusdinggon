@@ -103,91 +103,91 @@ Pengertian Sistem Operasi:</br>
    ![Assets](Assets/19.png)
 
 7. Untuk nama domain tidak perlu diisi, klik continue.
-   ![26.png](26.png)
+   ![Assets](Assets/26.png)
 
 9. Isi root password, lalu klik continue.
-   ![27.png](27.png)
+   ![Assets](Assets/27.png)
 
 10. Isi nama, lalu klik continue.
-    ![28.png](28.png)
+    ![Assets](Assets/28.png)
 
 11. Isi username, lalu klik continue.
-    ![29.png](29.png)
+    ![Assets](Assets/29.png)
 
 12. Pilih lokasi jam, lalu klik continue.
-    ![30.png](30.png)
+    ![Assets](Assets/30.png)
 
 13. Untuk partition disk, pilih manual, lalu klik continue.
-    ![31.png](31.png)
+    ![Asssets](Assets/31.png)
 
 14. Pilih opsi seperti pada gambar dibawah, lalu klik continue.
-    ![32.png](32.png)
+    ![Assets](Assets/32.png)
 
 15. Pilih "Yes" untuk membuat partition disk baru, lalu klik continue.
-    ![33.png](33.png)
+    ![Assets](Assets/33.png)
 
 16. Pilih pri/log untuk membuat bagian partition disk, lalu klik continue.
-    ![34.png](34.png)
+    ![Assets](Assets/34.png)
 
 
 17. Pilih "create new partition disk" untuk membuat partition disk, lalu klik continue.
-    ![35.png](35.png)
+    ![Assets](Assets/35.png)
 
 18. Tentukan jumlah penyimpanan partition disk pertama, lalu klik continue.
-    ![36.png](36.png)
+    ![Assets](Assets/36.png)
 
 19. Pilih "primary" agar menjadikan penyimpanan utama, lalu klik continue.
-    ![37.png](37.png)
+    ![Assets](Assets/37.png)
 
 20. Pilih "beginning", lalu klik continue.
-    ![38.png](38.png)
+    ![Assets](Assets/38.png)
 
 
 21. pilih opsi "done setting up the partition" klik continue.
-    ![39.png](39.png)
+    ![Assets](Assets/39.png)
 
 22. Setelah membuat partition disk pertama, silahkan membuat partition disk ke dua, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk pertama, lalu klik continue.
-    ![40.png](40.png)
+    ![Assets](Assets/40.png)
 
 
 23. Untuk partition disk kedua, pilih opsi logical dan pada mount point pilih Enter manually dan ketik "/storage", lalu klik continue.
-    ![41.png](41.png)
+    ![Assets](Assets/41.png)
 
 24. Setelah membuat partition disk kedua, silahkan membuat partition disk ke tiga, tentukan isi penyimpanan yang ukurannya lebih kecil dibandingkan partition disk kedua, lalu klik continue.
-    ![42.png](42.png)
+    ![Assets](Assets/42.png)
 
 25. Untuk partition disk kedua, pilih opsi logical, lalu jadikan "swap area" pada bagian "use as:", lalu klik continue.
-    ![43.png](43.png)
+    ![Assets](Assets/43.png)
 
 26. Cek ulang seperti gambar dibawah, jika sudah sesuai, klik continue.
-    ![44.png](44.png)
+    ![Assets](Assets/44.png)
     
 28. Pilih opsi "Yes", lalu klik continue.
-    ![45.png](45.png)
+    ![Assets](Assets/45.png)
 
 29. Pilih opsi "no", lalu klik continue.
-    ![46.png](46.png)
+    ![Assets](Assets/46.png)
 
 30. Pilih lokasi terdekat untuk mengunduh package manager, lalu klik continue.
-    ![47.png](47.png)
+    ![Assets](Assets/47.png)
 
 31. Pilih archive mirror, lalu klik continue.
-    ![48.png](48.png)
+    ![Assets](Assets/48.png)
     
 33. Pada bagian ini tidak perlu diisi, klik continue
-    ![49.png](49.png)
+    ![Assets](Assets/49.png)
 
 35. Pilih opsi "Yes", lalu klik continue.
-    ![50.png](50.png)
+    ![Assets](Assets/50.png)
 
 37. Pilih opsi "/dev/sda", lalu klik continue.
-    ![51.png](51.png)
+    ![Assets](Assets/51.png)
     
 39. Instalasi dan konfigurasi Debian telah selesai, klik continue dan Virtual machine akan me-reboot. 
-    ![52.png](52.png)
+    ![Assets](Assets/52.png)
     
 41. Tampilan Linux Debian setelah reboot.
-    ![53.png](53.png)
+    ![Assets](Assets/53.png)
 <!---
 kanisiusdinggon/kanisiusdinggon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

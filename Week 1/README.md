@@ -50,7 +50,7 @@ Pengertian Sistem Operasi:</br>
    ![Assets](Assets/debian.02.png)
 
 3. Buka setup Oracle dan klik Next.
-   ![21.jpeg](21.jpeg)
+   ![Assets](Assets/21.jpeg)
 
 4. Dalam menu tidak ada yang perlu diubah, klik Next.
    ![22.jpe](22.jpeg)

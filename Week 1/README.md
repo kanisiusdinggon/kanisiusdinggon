@@ -53,54 +53,54 @@ Pengertian Sistem Operasi:</br>
    ![Assets](Assets/21.jpeg)
 
 4. Dalam menu tidak ada yang perlu diubah, klik Next.
-   ![22.jpe](22.jpeg)
+   ![Assets](Assets/22.jpeg)
 
 5. Klik Yes.
-   ![23.jpeg](23.jpeg)
+   ![Assets](Assets/23.jpeg)
 
 6. Klik Install.
-   ![24.jpeg](24.jpeg)
+   ![Assets](Assets/24.jpeg)
 
 7. Oracle Virtual Box telah di install, klik finish.
-   ![25.jpeg](25.jpeg)
+   ![Assets](Assets/25.jpeg)
 
 ## Instalasi Linux Debian dalam Oracle Virtual Box
 1. Buka Oracle Virtual Box, lalu klik opsi "New".
-![06.jpeg](06.jpeg)
+![Assets](Assets/06.jpeg)
 
 2. Isi nama, pilih letak penyimpanan Virtual Box, masukkan file ISO debian yang telah diunduh, klik "Skip unattended Installation, dan klik Next.
-   ![07.jpeg](07.jpeg)
+   ![Assets](Assets/07.jpeg)
 
 3. Isi Username dan hostname dan ubah password, untuk domain name tidak perlu diganti, lalu klik Next. 
-   ![11.jpeg](11.jpeg)
+   ![Assets](Assets/11.jpeg)
 
 4. Tentukan RAM dan jumlah CPU yang diinginkan, lalu klik Next.
-   ![05.jpeg](05.jpeg)
+   ![Assets](Assets/05.jpeg)
 
 5. Tentukan ukuran storage didalam Virtual Machine, lalu klik Next.
-   ![10.jpeg](10.jpeg)
+   ![Assets](Assets/10.jpeg)
 
 6. Dalam tampilan ini, anda dapat melihat ulang pilihan yang anda telah pilih sebelumnya, jika sudah sesuai keinginan, pilih Finish.
-   ![13.jpeg](13.jpeg)
+   ![Assets](Assets/13.jpeg)
 
 ## Mengkonfigurasi Debian dalam Oracle Virtual Box
 1. Klik "Start" untuk membuka Virtual Machine.
-![12.jpeg](12.jpeg)
+![Assets](Assets/12.jpeg)
 
 2. Pilih Graphical Install untuk memulai konfigurasi Debian.
-   ![15.jpeg](15.jpeg)
+   ![Assets](Assets/15.jpeg)
 
 3. Pilih Bahasa, lalu klik continue.
-   ![14.jpeg](14.jpeg)
+   ![Assets](Assets/14.jpeg)
 
 4. Pilih lokasi, lalu klik continue.
-   ![17.jpeg](17.jpeg)
+   ![Assets](Assets/17.jpeg)
 
 5. Pilih konfigurasi bahasa Keyboard, lalu klik continue.
-   ![18.jpeg](18.jpeg)
+   ![Assets](Assest/18.jpeg)
 
 6. Isi Hostname, lalu klik continue.
-   ![19.png](19.png)
+   ![Assets](Assets/19.png)
 
 7. Untuk nama domain tidak perlu diisi, klik continue.
    ![26.png](26.png)

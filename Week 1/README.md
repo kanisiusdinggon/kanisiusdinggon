@@ -44,7 +44,7 @@ Pengertian Sistem Operasi:</br>
 
 ## Instalasi Oracle Virtual Box
 1. Masuk ke laman [Oracle Virtual box](https://www.virtualbox.org/wiki/Downloads), lalu unduh sesuai sistem operasi yang anda gunakan.
-![Week 1](Week1/01.jpeg)
+![Week 1](Week 1/01.jpeg)
 
 2. Masuk ke laman Download sistem operasi [Debian](https://www.debian.org/download) untuk mengunduh sistem operasi Linux Debian.
    ![ss](ss/20.png)

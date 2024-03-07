@@ -47,7 +47,7 @@ Pengertian Sistem Operasi:</br>
 ![01.jpeg](01.jpeg)
 
 2. Masuk ke laman Download sistem operasi [Debian](https://www.debian.org/download) untuk mengunduh sistem operasi Linux Debian.
-   ![ss](ss/20.png)
+   ![debian.02.png](debian.02.png)
 
 3. Buka setup Oracle dan klik Next.
    ![ss](ss/21.jpeg)
